@@ -1,0 +1,1 @@
+Este é um web scraper feito em Python com o objetivo de buscar vagas de estágio em programação. Começou como um projeto pessoal, mas eventualmente pode ser anexado ao projeto da disciplina Projeto Integrador 2.
